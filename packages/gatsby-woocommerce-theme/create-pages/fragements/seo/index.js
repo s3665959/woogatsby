@@ -1,5 +1,5 @@
 const SeoFragment = `
-fragment SeoFragment on hwgraphql_SEO {
+fragment SeoFragment on WpSEOConfig {
 	  canonical
 	  title
 	  metaDesc
