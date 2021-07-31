@@ -1,9 +1,8 @@
 const SeoFragment = `
-fragment SeoFragment on WpSEO {
+fragment SeoFragment on hwgraphql_SEO {
 	  canonical
 	  title
 	  metaDesc
-	  focuskw
 	  metaRobotsNoindex
 	  metaRobotsNofollow
 	  opengraphAuthor
