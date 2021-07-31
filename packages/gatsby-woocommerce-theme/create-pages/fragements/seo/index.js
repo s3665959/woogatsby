@@ -18,9 +18,6 @@ fragment SeoFragment on WpSEOConfig {
 	  opengraphModifiedTime
 	  twitterTitle
 	  twitterDescription
-	  twitterImage {
-	    sourceUrl
-	  }
 }
 `;
 
